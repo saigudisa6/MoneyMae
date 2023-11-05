@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    background-color: rgb(246, 246, 246);
+}
+
+.button-container{
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-container, button{
+    padding: 1em;
+}
+
+button{
+    background-color:rgb(17, 0, 66);
+    color:white;
+    border-radius: 20px;
+    height: 2em;
+    width: 20em;
+    font-size: 2em;
+    padding: 0;
+}

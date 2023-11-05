@@ -1,0 +1,25 @@
+.header{
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), rgb(255, 255, 255) 60%), url('../public/fam-img.jpeg') right no-repeat;
+    height:35em;
+}
+
+.greeting{
+    height:35em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0em;
+    
+}
+
+.logo{
+    width: 50em;
+}
+
+.welcome{
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    width: 40%;
+    color: rgb(6, 14, 55);
+}

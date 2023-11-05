@@ -1,0 +1,23 @@
+.graphs-container{
+    height: 40em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.graph-container{
+    height: 25em;
+    width: 28em;
+    border-radius:5px;
+    background-color: rgb(17, 0, 66);
+    border-radius:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.graph{
+    height: 20em;
+    width: 25em; 
+    /* border-radius:50px; */
+}

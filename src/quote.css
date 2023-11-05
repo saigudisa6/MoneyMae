@@ -1,0 +1,11 @@
+.quote-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15em;
+}
+
+.quote{
+    font-size: 5em;
+    color:rgb(6, 14, 55);
+}
